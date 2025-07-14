@@ -31,8 +31,8 @@ Each folder contains:
 
 - **Company**: Prodigy InfoTech  
 - **Domain**: Web Development  
-- **Duration**: [Insert duration here]  
-- **Status**: Ongoing / Completed
+- **Duration**: 1 Month
+- **Status**: Ongoing 
 
 ---
 
