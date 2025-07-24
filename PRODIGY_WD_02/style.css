@@ -1,0 +1,56 @@
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #667eea, #764ba2);
+      color: white;
+      text-align: center;
+    }
+
+    .stopwatch {
+      background: rgba(255, 255, 255, 0.1);
+      margin: 60px auto 20px;
+      padding: 30px;
+      border-radius: 20px;
+      backdrop-filter: blur(10px);
+      width: 320px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    #time {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+
+    button {
+      padding: 10px 15px;
+      margin: 5px;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: bold;
+      color: white;
+    }
+
+    #start { background-color: #28a745; }
+    #stop  { background-color: #ffc107; color: black; }
+    #reset { background-color: #dc3545; }
+    #lap   { background-color: #17a2b8; }
+
+    #laps {
+      margin-top: 30px;
+      padding: 0 20px;
+    }
+
+    #laps li {
+      background-color: rgba(255,255,255,0.1);
+      padding: 8px 15px;
+      margin-bottom: 10px;
+      border-radius: 10px;
+      list-style: none;
+      font-size: 16px;
+    }
