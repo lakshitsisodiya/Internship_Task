@@ -26,7 +26,4 @@ Below is a screenshot of the webpage:
 - **CSS3** with glassmorphism style (blurred background, gradients)
 - **Vanilla JavaScript** for logic and DOM manipulation
 
----
-
-## 📂 File Structure
 
