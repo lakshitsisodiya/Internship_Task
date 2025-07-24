@@ -1,4 +1,4 @@
-# ⏱ Task 1 - Stopwatch Web App (Internship Project)
+# ⏱ Task 2 - Stopwatch Web App (Internship Project)
 
 This project is part of my internship tasks and involves building a **fully functional stopwatch web application** using **HTML, CSS, and JavaScript**. The stopwatch includes start, stop, reset, and lap features — along with a modern, glassmorphism-inspired UI design.
 
