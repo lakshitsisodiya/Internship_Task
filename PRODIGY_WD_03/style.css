@@ -1,0 +1,68 @@
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #74ebd5, #acb6e5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .game-container {
+      text-align: center;
+      background-color: white;
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    .board {
+      display: grid;
+      grid-template-columns: repeat(3, 100px);
+      gap: 10px;
+      margin: 20px auto;
+    }
+
+    .cell {
+      width: 100px;
+      height: 100px;
+      font-size: 2.5rem;
+      color: #fff;
+      background: #6a11cb;
+      background: linear-gradient(315deg, #6a11cb 0%, #2575fc 74%);
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .cell:hover {
+      transform: scale(1.05);
+    }
+
+    .message {
+      font-size: 1.2rem;
+      margin-top: 15px;
+      color: #444;
+    }
+
+    .reset-btn {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 1rem;
+      background: #ff5f6d;
+      background: linear-gradient(45deg, #ff5f6d, #ffc371);
+      border: none;
+      color: white;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .reset-btn:hover {
+      opacity: 0.9;
+    }
