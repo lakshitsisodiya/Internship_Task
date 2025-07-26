@@ -37,10 +37,7 @@ This is a **simple and fun Tic Tac Toe game** built using **HTML, CSS, and JavaS
 
 ## 📸 Screenshot
 
-![Tic Tac Toe Screenshot](https://via.placeholder.com/600x350.png?text=Add+your+screenshot+here)
-
-> _You can take a screenshot of your game and replace the above URL._
-
+![Screenshot](screenshot.png)
 ---
 
 ## 🔄 Future Improvements
@@ -57,20 +54,4 @@ This is a **simple and fun Tic Tac Toe game** built using **HTML, CSS, and JavaS
 1. Download or clone this repo.
 2. Open `index.html` in any modern browser.
 3. Start playing with a friend!
-
----
-
-## 🧠 What You Learn from This
-
-- Handling click events with JavaScript
-- DOM manipulation (`createElement`, `appendChild`, `innerHTML`)
-- Basic game logic (win conditions, draw detection)
-- How to style interactive elements using CSS transitions and gradients
-
----
-
-## 🙌 Credits
-
-Made as part of **Task 1** of my **Web Development Internship at Prodigy InfoTech**.  
-Created with ❤️ using HTML, CSS and JavaScript.
 
