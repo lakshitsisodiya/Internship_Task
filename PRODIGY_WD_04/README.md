@@ -29,8 +29,6 @@ A simple and stylish weather app built with **HTML**, **CSS**, and **JavaScript*
 ## 📸 Screenshot
 
 ![Weather Checker Screenshot](screenshot.png)  
-> *Add a screenshot of your app and name the file `screenshot.png` in the root folder.*
-
 ---
 
 ## 🔧 Getting Started
